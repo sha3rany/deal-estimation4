@@ -1,0 +1,9 @@
+{
+  "name": "Deal Estimation",
+  "short_name": "DealEst",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#063B1C",
+  "theme_color": "#063B1C"
+}
